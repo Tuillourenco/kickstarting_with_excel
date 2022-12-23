@@ -1,22 +1,22 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-### Excel file containing 4115 x 22 (rows/columns), with seven spreadsheets containing the results for the Kickstarter project.
+Excel file containing 4115 x 22 (rows/columns), with seven spreadsheets containing the results for the Kickstarter project.
 
 ### Purpose
-#### The project's purposes are to give Louise’s efforts to come close to its fundraising goal in a short amount of time. In addition, the sponsor wants to accomplish how select endeavours fared regarding their launch dates and funding goals. With the dataset that has already been scrutinized, it'll be possible to analyze campaign outcomes based on their launch dates and funding goals. After handling the results, it'll be submitted as a written report based on the analysis and the visualizations created for that purpose.
+The project's purposes are to give Louise’s efforts to come close to its fundraising goal in a short amount of time. In addition, the sponsor wants to accomplish how select endeavours fared regarding their launch dates and funding goals. With the dataset that has already been scrutinized, it'll be possible to analyze campaign outcomes based on their launch dates and funding goals. After handling the results, it'll be submitted as a written report based on the analysis and the visualizations created for that purpose.
 
 ## Analysis and Challenges
-### The project kicked off with a large amount of data collected, and as the primary tool, the pivot table was used to discover the trends pointed out through the results. The substantial initial effort was not visible as a data analyst, so the data was cleared, sequenced and organized through the MS Excel spreadsheets.
+The project kicked off with a large amount of data collected, and as the primary tool, the pivot table was used to discover the trends pointed out through the results. The substantial initial effort was not visible as a data analyst, so the data was cleared, sequenced and organized through the MS Excel spreadsheets.
 
 ### Analysis of Outcomes Based on Launch Date
-#### The analysis found that campaigns that achieved outstanding success were strictly tied to the launch date. Following this line of reasoning, for a campaign launched between April and August, its chances of acceptance and support were noticeably higher, gaining many fundraisers.
+The analysis found that campaigns that achieved outstanding success were strictly tied to the launch date. Following this line of reasoning, for a campaign launched between April and August, its chances of acceptance and support were noticeably higher, gaining many fundraisers.
 
 ### Analysis of Outcomes Based on Goals
-####Right from the start, the project team faced a challenge in understanding the parameters related to the success and failure of the released campaign. Analyzing the data collected, it was possible to establish the results. In general, in movements where the goal was lower funding, the chances of success increased and presented better than expected results. The same cannot be said about the opposite, and it is easy to understand that by aiming for a more significant donation, the campaign's rejection was thus increased.
+Right from the start, the project team faced a challenge in understanding the parameters related to the success and failure of the released campaign. Analyzing the data collected, it was possible to establish the results. In general, in movements where the goal was lower funding, the chances of success increased and presented better than expected results. The same cannot be said about the opposite, and it is easy to understand that by aiming for a more significant donation, the campaign's rejection was thus increased.
 
 ### Challenges and Difficulties Encountered
-#### The great challenge encountered by the project team was related to analyzing the campaigns about their launch dates; there was a conversion in the line graph between those that were successful and those that failed when they started in December.
+The great challenge encountered by the project team was related to analyzing the campaigns about their launch dates; there was a conversion in the line graph between those that were successful and those that failed when they started in December.
 
 ## Results
 
